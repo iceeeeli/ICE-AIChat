@@ -1,0 +1,40 @@
+{
+  "id": "sdk_20241202094508",
+  "messages": [
+    {
+      "id": 1733103908357,
+      "type": "user",
+      "content": "你好",
+      "timestamp": "09:45:08"
+    },
+    {
+      "id": 1733103908358,
+      "type": "bot",
+      "content": "嗨，你好！有什么问题需要回答吗？",
+      "model": "mistral",
+      "timestamp": "09:45:08"
+    },
+    {
+      "id": 1733103933448,
+      "type": "bot",
+      "content": "我是人工",
+      "timestamp": "09:45:33",
+      "isManual": true
+    },
+    {
+      "id": 1733103946517,
+      "type": "user",
+      "content": "你好",
+      "timestamp": "09:45:46"
+    },
+    {
+      "id": 1733103946518,
+      "type": "bot",
+      "content": "这里是一个机器人，我不会感受到情绪，但我很高兴帮你忙。如果您有任何问题或需要帮助，请随时告诉我。",
+      "model": "mistral",
+      "timestamp": "09:45:46"
+    }
+  ],
+  "createdAt": "2024-12-02T09:45:08.357492",
+  "updatedAt": "2024-12-02T09:45:53.588018"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@ai-chat/server",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "python3 src/app.py",
+    "start": "python3 src/app.py"
+  },
+  "dependencies": {
+    "@ai-chat/shared": "workspace:*"
+  }
+} 

@@ -1,0 +1,27 @@
+{
+  "id": "sdk_20241202095751",
+  "messages": [
+    {
+      "id": 1733104671431,
+      "type": "user",
+      "content": "你好呀",
+      "timestamp": "09:57:51"
+    },
+    {
+      "id": 1733104671432,
+      "type": "bot",
+      "content": "嗨，您好！",
+      "model": "mistral",
+      "timestamp": "09:57:51"
+    },
+    {
+      "id": 1733104690350,
+      "type": "bot",
+      "content": "我很好\n",
+      "timestamp": "09:58:10",
+      "isManual": true
+    }
+  ],
+  "createdAt": "2024-12-02T09:57:51.431631",
+  "updatedAt": "2024-12-02T09:58:10.350571"
+}

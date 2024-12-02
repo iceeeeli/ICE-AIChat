@@ -1,0 +1,28 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Build outputs
+dist
+.next
+build
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode
+.idea
+
+# Logs
+*.log
+npm-debug.log*
+
+# Python
+__pycache__
+*.pyc
+venv
+
+# Data files
+/data/*.json 

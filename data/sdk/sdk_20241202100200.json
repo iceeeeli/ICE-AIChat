@@ -1,0 +1,62 @@
+{
+  "id": "sdk_20241202100200",
+  "messages": [
+    {
+      "id": 1733104920323,
+      "type": "user",
+      "content": "你好",
+      "timestamp": "10:02:00"
+    },
+    {
+      "id": 1733104920325,
+      "type": "bot",
+      "content": "非常高兴与您交谈！",
+      "model": "mistral",
+      "timestamp": "10:02:00"
+    },
+    {
+      "id": 1733104938729,
+      "type": "bot",
+      "content": "你好呀",
+      "timestamp": "10:02:18",
+      "isManual": true
+    },
+    {
+      "id": 1733104957014,
+      "type": "bot",
+      "content": "ice",
+      "timestamp": "10:02:37",
+      "isManual": true
+    },
+    {
+      "id": 1733105108809,
+      "type": "bot",
+      "content": "加油",
+      "timestamp": "10:05:08",
+      "isManual": true
+    },
+    {
+      "id": 1733105119496,
+      "type": "user",
+      "content": "好的",
+      "timestamp": "10:05:19"
+    },
+    {
+      "id": 1733105119497,
+      "type": "bot",
+      "content": "好的，你有什么问题需要回答吗？",
+      "model": "mistral",
+      "timestamp": "10:05:19"
+    },
+    {
+      "id": 1733105150134,
+      "type": "bot",
+      "content": "你已经很好了！",
+      "timestamp": "10:05:50",
+      "isManual": true
+    }
+  ],
+  "createdAt": "2024-12-02T10:02:00.323730",
+  "updatedAt": "2024-12-02T10:05:50.134772",
+  "isManualMode": false
+}
